@@ -1,4 +1,3 @@
-t
 from src.main import add
 import pytest
 
